@@ -1,6 +1,6 @@
 /*Microsoft SQL server database - MSHA
 
-Author:Mahesh M. Nair (mmn9)
+Author:Jigyasa Kohli (jk423)
 Class: IS 631 101 (FALL 2016)
 Professor: James Markulic
 
